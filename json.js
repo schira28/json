@@ -13,8 +13,3 @@ function eventHandler(e) {
 let utenti = []
 
 document.querySelector("#invia").addEventListener("click", eventHandler)
-function print(){
-    let i
-    for(i)
-}
-
